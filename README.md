@@ -58,17 +58,17 @@
 
 <div align="center">
   <a href="https://github.com/Aminekabene/AI_Mask_Classifier">
-      <img src="./demo/nomask.png" width="200">
+      <img src="./demo/nomask.PNG" width="250">
   </a>
   <a href="https://github.com/Aminekabene/AI_Mask_Classifier">
-      <img src="./demo/cloth.png" width="200">
+      <img src="./demo/cloth.PNG" width="250">
   </a>
   <br />
   <a href="https://github.com/Aminekabene/AI_Mask_Classifier">
-      <img src="./demo/N95.png" width="200">
+      <img src="./demo/N95.PNG" width="250">
   </a>
   <a href="https://github.com/Aminekabene/AI_Mask_Classifier">
-      <img src="./demo/surgical.png" width="200">
+      <img src="./demo/surgical.PNG" width="250">
   </a>
  </div>
 
