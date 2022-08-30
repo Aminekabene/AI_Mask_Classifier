@@ -56,19 +56,21 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<a href="https://github.com/Aminekabene/AI_Mask_Classifier">
-    <img src="./demo/nomask.png" width="200">
-</a>
-<a href="https://github.com/Aminekabene/AI_Mask_Classifier">
-    <img src="./demo/cloth.png" width="200">
- </a>
- <br />
- <a href="https://github.com/Aminekabene/AI_Mask_Classifier">
-    <img src="./demo/N95.png" width="200">
- </a>
- <a href="https://github.com/Aminekabene/AI_Mask_Classifier">
-    <img src="./demo/surgical.png" width="200">
- </a>
+<div align="center">
+  <a href="https://github.com/Aminekabene/AI_Mask_Classifier">
+      <img src="./demo/nomask.png" width="200">
+  </a>
+  <a href="https://github.com/Aminekabene/AI_Mask_Classifier">
+      <img src="./demo/cloth.png" width="200">
+  </a>
+  <br />
+  <a href="https://github.com/Aminekabene/AI_Mask_Classifier">
+      <img src="./demo/N95.png" width="200">
+  </a>
+  <a href="https://github.com/Aminekabene/AI_Mask_Classifier">
+      <img src="./demo/surgical.png" width="200">
+  </a>
+ </div>
 
 As you can see the Classifier can distinguish between four different classes: `No Mask, Surgical Maks, Cloth Masks and N95 Masks`.
 
